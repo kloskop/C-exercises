@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\bin\Debug\PKloskoHelloWorld.exe.config
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\bin\Debug\PKloskoHelloWorld.exe
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\bin\Debug\PKloskoHelloWorld.pdb
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\obj\Debug\PKloskoHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\obj\Debug\PKloskoHelloWorld.exe
+c:\users\student\documents\visual studio 2012\Projects\PKloskoHelloWorld\PKloskoHelloWorld\obj\Debug\PKloskoHelloWorld.pdb
